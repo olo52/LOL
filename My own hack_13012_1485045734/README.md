@@ -1,4 +1,4 @@
-Thank you for downloading the Surviv Cheat Injector by Lol.
+Thank you for downloading the BroHack Lol.
 
 ## Installation
 
