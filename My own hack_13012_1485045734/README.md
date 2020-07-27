@@ -1,14 +1,14 @@
-Thank you for downloading the Surviv Cheat Injector by IceHacks.
+Thank you for downloading the Surviv Cheat Injector by Lol.
 
 ## Installation
 
-How to install IceHacks:
+How to install :
 
 1. Extract this `ZIP` file into a folder.
 2. Open Chrome\*, and enter "chrome://extensions" in the address bar, or get to extensions via settings.
 3. Once you have gotten to extensions, click the button on the top right labeled "developer mode" to turn on Dev Mode.
 4. Now on the top left corner, there is a button labeled "load unpacked". Click that and select the folder in which you extracted the Cheat files.
-5. You now have the IceHacks cheat! (Or you should). If you want to enable IceHacks for incognito, click on "details", scroll down and select "allow in incognito".
+5. You now have the  cheat! (Or you should). If you want to enable IceHacks for incognito, click on "details", scroll down and select "allow in incognito".
 
 <sup>\* The cheat supports any chromium browser with extension support (this includes: Opera, Chrome, Edge Chromium, Vivaldi, ...).</sup>
 
@@ -58,7 +58,7 @@ Freeze fix. Like c'mon surviv... It's time to take down the lights and trees as 
 -   Fixed
     -   Freeze
 
-### v2.1.4
+### v2.7.8
 
 Christmas update with textures and a theme.
 
